@@ -1,7 +1,7 @@
 # lgpio-I2C-ADS1115
 Uses the lgpio library to read an analogue-to-digital chip
 
-![](https://github.com/eugenedakin/lgpio-I2C/blob/main/FinalScreenGrab.png)
+![](https://github.com/eugenedakin/lgpio-I2C-ADS1115/blob/main/ADS1115ScreenGrab.png)
 
 The lgpio library can be installed Raspberry Pi OS (6 July 2023) and instructions 
 are available at http://abyz.me.uk/lg/download.html
@@ -17,7 +17,7 @@ Install instructions are:
 8) make
 9) sudo make install
 10) create a Blink example program and copy the program and libraries to the RaspberryPi Desktop
-11) give the executable permission to run with something like: 'sudo chmod +x HelloWorldBlink'
-12) run the program with something like: 'sudo ./libGPIODinput'
+11) give the executable permission to run with something like: 'sudo chmod +x ADS'
+12) run the program with something like: 'sudo ./ADS'
 
-![](https://github.com/eugenedakin/lgpio-I2C/blob/main/I2CBreadboard.png)
+![](https://github.com/eugenedakin/lgpio-I2C-ADS1115/blob/main/ADS1115Rev1Breadboard.png)
