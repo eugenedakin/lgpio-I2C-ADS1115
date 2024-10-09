@@ -16,7 +16,7 @@ Install instructions are:
 7) cd lg-master
 8) make
 9) sudo make install
-10) create a Blink example program and copy the program and libraries to the RaspberryPi Desktop
+10) create an ADS example program and copy the program and libraries to the RaspberryPi Desktop
 11) give the executable permission to run with something like: 'sudo chmod +x ADS'
 12) run the program with something like: 'sudo ./ADS'
 
