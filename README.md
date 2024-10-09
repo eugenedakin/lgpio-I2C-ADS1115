@@ -3,7 +3,7 @@ Uses the lgpio library to read an analogue-to-digital chip
 
 ![](https://github.com/eugenedakin/lgpio-I2C-ADS1115/blob/main/ADS1115ScreenGrab.png)
 
-The lgpio library can be installed Raspberry Pi OS (6 July 2023) and instructions 
+The lgpio library can be installed Raspberry Pi OS (Oct 2024) and instructions 
 are available at http://abyz.me.uk/lg/download.html
 
 Install instructions are:
