@@ -1,5 +1,7 @@
 # lgpio-I2C-ADS1115
-Uses the lgpio library to read an analogue-to-digital chip
+Uses the lgpio library to read an analogue-to-digital chip.
+
+The ADS1115 is widely used with sensors to read signals from pressure sensor, light sensors, and temperature sensors. Other uses include industrial automation , Data Acquisition Systems, medical devices, environmental monitoring such as humidity, embedded electronic systems that require high resolution input, robotics, and audio applications for signal processing and sound capture.
 
 ![](https://github.com/eugenedakin/lgpio-I2C-ADS1115/blob/main/ADS1115ScreenGrab.png)
 
